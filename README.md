@@ -6,13 +6,11 @@
 
 ### 👋 Sobre mim
 
-Atuo com **IA aplicada e transformação digital**, conectando necessidades de negócio, processos e soluções tecnológicas.
+Atuo com **IA aplicada e transformação digital**, conectando negócios, processos e tecnologia. Atualmente, curso **Inteligência Artificial e Automação Digital na UniFECAF** e concluí **Python (100h) pela Rocketseat**.
 
-Atualmente, curso **Inteligência Artificial e Automação Digital na UniFECAF** e concluí a formação em **Python (100h) pela Rocketseat**.
+Meu objetivo é evoluir para **Engenharia de IA** e, no longo prazo, **Forward Deployed Engineering (FDE)**, desenvolvendo soluções inteligentes para problemas reais.
 
-Meu objetivo é evoluir para **Engenharia de IA** e, a longo prazo, para **Forward Deployed Engineering (FDE)**, desenvolvendo e implementando soluções inteligentes para problemas reais.
-
-### 🛠️ Tecnologias e conhecimentos
+### 🛠️ Tecnologias e projetos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -21,8 +19,6 @@ Meu objetivo é evoluir para **Engenharia de IA** e, a longo prazo, para **Forwa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Áreas de estudo e aplicação:** LLMs, RAG, agentes de IA, APIs, integrações e automação.
+**Foco técnico:** APIs, integrações, LLMs, RAG, agentes de IA e automação.
 
-### 🚀 Projeto atual | AI Enterprise Lab
-
-Projeto prático de **IA generativa, RAG, agentes e APIs**, voltado ao desenvolvimento, integração, testes e avaliação de soluções de Inteligência Artificial.
+**Projeto atual:** [AI Enterprise Lab](https://github.com/waldirevora/ai-enterprise-lab), laboratório prático para desenvolver, integrar, testar e avaliar aplicações com Inteligência Artificial.
