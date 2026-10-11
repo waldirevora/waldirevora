@@ -20,5 +20,3 @@ Meu objetivo é evoluir para **Engenharia de IA** e, no longo prazo, **Forward D
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Foco técnico:** APIs, integrações, LLMs, RAG, agentes de IA e automação.
-
-**Projeto atual:** [AI Enterprise Lab](https://github.com/waldirevora/ai-enterprise-lab) - Laboratório de referência em IA corporativa local-first com RAG, agentes, controle de acesso, observabilidade, segurança e implantação reprodutível.
