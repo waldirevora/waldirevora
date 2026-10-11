@@ -21,4 +21,4 @@ Meu objetivo é evoluir para **Engenharia de IA** e, no longo prazo, **Forward D
 
 **Foco técnico:** APIs, integrações, LLMs, RAG, agentes de IA e automação.
 
-**Projeto atual:** [AI Enterprise Lab](https://github.com/waldirevora/ai-enterprise-lab), laboratório prático para desenvolver, integrar, testar e avaliar aplicações com Inteligência Artificial.
+**Projeto atual:** [AI Enterprise Lab](https://github.com/waldirevora/ai-enterprise-lab) - Laboratório de referência em IA corporativa local-first com RAG, agentes, controle de acesso, observabilidade, segurança e implantação reprodutível.
