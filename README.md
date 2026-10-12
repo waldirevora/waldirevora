@@ -19,6 +19,8 @@ Meu objetivo é evoluir para **Engenharia de IA** e, no longo prazo, **Forward D
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+🔬 **FDE Lab:** [fdelab.com.br](https://fdelab.com.br) | Projetos, estudos e minha evolução rumo à Engenharia de IA e FDE.
+
 **Foco técnico:** APIs, integrações, LLMs, RAG, agentes de IA e automação.
 
 ### 🚀 Projetos em planejamento
