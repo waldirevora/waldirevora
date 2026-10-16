@@ -23,9 +23,7 @@ Meu objetivo é evoluir para **Engenharia de IA** e, no longo prazo, **Forward D
 
 **Foco técnico:** APIs, integrações, LLMs, RAG, agentes de IA e automação.
 
-### 🚀 Projetos em planejamento
-
-Estou estruturando três projetos práticos para consolidar meus conhecimentos em Engenharia de IA:
+### 🚀 Projetos em andamento
 
 - **AI Request Classifier:** classificação de solicitações com Python, FastAPI e modelos de IA.
 - **AI Evals Lab:** avaliação de respostas de IA com testes, métricas e observabilidade.
